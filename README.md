@@ -134,16 +134,6 @@ I actively contribute to technical communities and enjoy collaborating in **agil
 
 ---
 
-## GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shruti15072006&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti15072006&layout=compact&hide_border=true" height="150"/>
-
-</div>
-
----
 
 ## Contact
 
